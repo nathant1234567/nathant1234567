@@ -8,7 +8,7 @@
 
 ---
 
-## 🛠️ **Tech I prob somewhat know**
+## **Tech I prob somewhat know**
 <div>
   <img src="https://img.shields.io/badge/Code-Python-yellow?style=for-the-badge&logo=python" alt="Python">
   <img src="https://img.shields.io/badge/Code-Java-blue?style=for-the-badge&logo=java" alt="Java">
@@ -20,7 +20,7 @@
 
 ---
 
-## 🏆 **Status and stuff**
+## **Status and stuff**
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nathant1234567&show_icons=true&theme=radical" alt="GitHub Stats">
   <br>
@@ -29,12 +29,12 @@
 
 ---
 
-## 🌟 **Projects**
+## **Projects**
 - Uhh yh none lol
 
 ---
 
-## 🤝 **Prob a bad idea putting this here**
+## **Prob a bad idea putting this here**
 <div>
   <a href="https://www.instagram.com/nahannn.n/" target="_blank"><img src="https://img.shields.io/badge/Instagram-Follow-blue?style=for-the-badge&logo=instagram" alt="Instagram"></a>
   <!-- Add links to other platforms if desired -->
