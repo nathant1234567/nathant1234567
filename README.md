@@ -43,5 +43,5 @@
 ---
 
 <div align="center">
-  <p>✨ Ye ✨</p>
+  <p>Ye</p>
 </div>
