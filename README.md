@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>👋 Hey I'm Nathan, currently a first year student at Kent Uni</h1>
+  <h1>👋 Hey I'm Nathan, currently a second year student at Kent Uni</h1>
   <p>
     Won't see too much here tbh but I'm passionate about <strong>Computer science mainly but also Music</strong>
   </p>
