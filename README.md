@@ -30,7 +30,7 @@
 ---
 
 ## **Projects**
-- Uhh yh none lol
+- Working on various projects, will put somee here soon 
 
 ---
 
