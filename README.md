@@ -30,7 +30,8 @@
 ---
 
 ## **Projects**
-- Working on various projects, will put somee here soon 
+- Working on various projects, will put somee here soon
+- Working on a react note taking app using postgres, zustand and axios: https://github.com/nathant1234567/smooth-notes
 
 ---
 
