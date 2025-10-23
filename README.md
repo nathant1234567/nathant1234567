@@ -24,14 +24,14 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nathant1234567&show_icons=true&theme=radical" alt="GitHub Stats">
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nathant1234567e&theme=radical" alt="GitHub Streak Stats">
 </div>
 
 ---
 
 ## **Projects**
-- Working on various projects, will put somee here soon
-- Working on a react note taking app using postgres, zustand and axios: https://github.com/nathant1234567/smooth-notes
+- Working on a react note taking app using postgres, zustand and axios: [smooth-notes](https://github.com/nathant1234567/smooth-notes)
+- My coursework project for A-level (beware the spagetti code) [here](https://github.com/nathant1234567/coursework-project)
+- Will have more put here soon!
 
 ---
 
