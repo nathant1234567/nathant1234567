@@ -3,12 +3,12 @@
   <p>
     Hi! I'm passionate about <strong>Computer science mainly but also Music</strong>
   </p>
-  <a href="mailto:njt38@kent.ac.uk"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail" alt="Email"></a>
+  <a href="mailto:nathanthompson256@outlook.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail" alt="Email"></a>
 </div>
 
 ---
 
-## **Tech I prob somewhat know**
+## **Technology I am proficient in**
 <div>
   <img src="https://img.shields.io/badge/Code-Python-yellow?style=for-the-badge&logo=python" alt="Python">
   <img src="https://img.shields.io/badge/Code-Java-blue?style=for-the-badge&logo=java" alt="Java">
@@ -20,7 +20,7 @@
 
 ---
 
-## **Status and stuff**
+## **Status**
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nathant1234567&show_icons=true&theme=radical" alt="GitHub Stats">
   <br>
